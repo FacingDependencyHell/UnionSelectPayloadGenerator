@@ -4,7 +4,9 @@ I've tried to find a way of doing this through Burp's intruder, but could not fi
 ---
 
 # Usage
-`python3 generator.py` - And just follow the instructions on the screen
+1 - Download the `generator.py` script
+2 - Navigate to the directory where you've downloaded it to
+3 - `python3 generator.py` - And just follow the instructions on the screen
 
 ![usage](https://github.com/user-attachments/assets/fcb47bd4-e6e6-4252-bf6c-ee4239470e9e)
 
