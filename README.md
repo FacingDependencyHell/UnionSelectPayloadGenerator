@@ -11,6 +11,7 @@ I've tried to find a way of doing this through Burp's intruder, but could not fi
 3 - `python3 generator.py`
 
 4 - `How many positions` - This defines, how many positions will be generated. If you choose 3, the output will be as follows:
+
 ![image](https://github.com/user-attachments/assets/e9d947b7-12ab-440a-9830-845177222a29)
 
 5 - `Character(s) to substitute` - This defines what will be substituted instead of the `NULL` character. 
