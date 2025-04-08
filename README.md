@@ -18,9 +18,9 @@ NULL,NULL,'a'`
 5 - `Character(s) to substitute` - This defines what will be substituted instead of the `NULL` character. 
 
 6 - `How many substitutions:` - How many substitutions will be used per line. If you use 2 for example, the output will look like this:
-`'a','a',NULL
+```'a','a',NULL
 'a',NULL,'a'
-NULL,'a','a'`
+NULL,'a','a'```
 
 ![gen](https://github.com/user-attachments/assets/ca4be39e-d72f-46f3-b581-72d23057b837)
 
